@@ -24,11 +24,11 @@
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/LeticiaVieirg/LeticiaVieirg/output/github-contribution-grid-snake.svg"
   />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/LeticiaVieirg/LeticiaVieirg/output/github-contribution-grid-snake.svg"
-  />
-  
+
+<div>
+  ![Snake animation](https://github.com/LeticiaVieirg/LeticiaVieirg/blob/output/github-contribution-grid-snake.svg)
+</div>
+
 </picture>
 
 ## IDE atual: 
