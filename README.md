@@ -6,8 +6,7 @@ I'm Leticia Vieira and this is my GitHub profile. I do my best to share what I'm
 - 🏢  Currently working for [AltoTech](https://github.com/https-github-com-AltoTechJr)
 - 🌎  Based in Brazil
 - 👩‍💻  More about me: - **Back-end developer** and **Marketing** at [AltoTech](https://github.com/https-github-com-AltoTechJr)
-
-
+  
 ### **How to reach me**:
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/let%C3%ADcia-vieira-059a9b206//)
@@ -19,6 +18,7 @@ I'm Leticia Vieira and this is my GitHub profile. I do my best to share what I'm
 ### **Languages:**
 
 <div align="left">
+  <img src="https://cdn.simpleicons.org/c" height="42" width="54" alt="c logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" width="54" alt="arduino logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
   
