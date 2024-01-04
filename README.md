@@ -1,7 +1,18 @@
-## Hi there, I am Letícia Vieira!
+### Hi there 👋
 
+I'm Leticia Vieira and this is my GitHub profile. I do my best to share what I'm learning and to keep well-documented repos. I hope you find something useful around here! 😄
 
+- 💻  
+- 🏢  Currently working for [AltoTech](https://github.com/https-github-com-AltoTechJr)
+- 🌎  Based in Brazil
+- 👩‍💻  More about me: - **Back-end developer** at [AltoTech](https://github.com/https-github-com-AltoTechJr);
 
+        [LinkedIn](https://www.linkedin.com/in/let%C3%ADcia-vieira-059a9b206//) / [Gmail](https://mailto:eleticiavieiragoncalves01@gmail.com) /
+        [Discord](https://discord.com/LetciaVr#9931) / [Instagram](https://instagram.com/letciavieirat)
+
+  
+
+  
 ## Meus contatos:
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eleticiavieiragoncalves01@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/let%C3%ADcia-vieira-059a9b206//)
@@ -20,21 +31,14 @@
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/LeticiaVieirg/LeticiaVieirg/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/LeticiaVieirg/LeticiaVieirg/output/github-contribution-grid-snake.svg"
-  />
-
-<div>
-  ![Snake animation](https://github.com/LeticiaVieirg/LeticiaVieirg/blob/output/github-contribution-grid-snake.svg)
-</div>
-
-</picture>
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeticiaVieirg&theme=dark&count_private=false"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeticiaVieirg&hide=html&layout=compact&theme=dark&count_private=false" /></td>
+    </tr>   
+</table>
+</center> 
 
 ## IDE atual: 
    <img aling="center" alt="LeticiaVieirg" height="30" width="130" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
