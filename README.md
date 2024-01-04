@@ -1,5 +1,7 @@
 ## Hi there, I am Letícia Vieira!
 
+
+
 ## Meus contatos:
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eleticiavieiragoncalves01@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/let%C3%ADcia-vieira-059a9b206//)
