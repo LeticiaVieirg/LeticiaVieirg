@@ -5,11 +5,7 @@ I'm Leticia Vieira and this is my GitHub profile. I do my best to share what I'm
 - 💻  Information Technology Student
 - 🏢  Currently working for [AltoTech](https://github.com/https-github-com-AltoTechJr)
 - 🌎  Based in Brazil
-- 👩‍💻  More about me: - **Back-end developer** at [AltoTech](https://github.com/https-github-com-AltoTechJr);
-
-        [LinkedIn](https://www.linkedin.com/in/let%C3%ADcia-vieira-059a9b206//) / [Gmail](https://mailto:eleticiavieiragoncalves01@gmail.com) /
-        [Discord](https://discord.com/LetciaVr#9931) / [Instagram](https://instagram.com/letciavieirat)
-
+- 👩‍💻  More about me: - **Back-end developer** at [AltoTech](https://github.com/https-github-com-AltoTechJr)
   
 **How to reach me**:
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eleticiavieiragoncalves01@gmail.com)
