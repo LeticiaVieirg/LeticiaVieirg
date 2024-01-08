@@ -17,10 +17,10 @@ I'm Leticia Vieira and this is my GitHub profile. I do my best to share what I'm
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" width="54" alt="arduino logo"  />
-  <img src="https://cdn.simpleicons.org/c" height="30" width="42" alt="c logo" />
-  <img src="https://cdn.simpleicons.org/javascript" height="30" width="42" alt="java logo" />
-  <img src="https://cdn.simpleicons.org/c++" height="30" width="42" alt="java logo" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
+  <img src="https://cdn.simpleicons.org/c" height="42" width="54" alt="c logo" />
+  <img src="https://cdn.simpleicons.org/javascript" height="42" width="54" alt="java logo" />
+  <img src="https://cdn.simpleicons.org/c++" height="42" width="54" alt="java logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" width="54" alt="java logo"  />
 </div>
 
 <center>
