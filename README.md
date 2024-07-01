@@ -4,6 +4,7 @@ I'm Leticia Vieira and this is my GitHub profile. I do my best to share what I'm
 I hope you find something useful around here! 😄
 
 - 💻  Information Technology Student
+- 👩‍💻  Technological Development, Research and Extension - UFERSA
 - 🏢  Currently working for [AltoTech](https://github.com/https-github-com-AltoTechJr)
 - 🌎  Based in Brazil
 - 👩‍💻  More about me: - **Back-end developer** and **Marketing** at [AltoTech](https://github.com/https-github-com-AltoTechJr)
@@ -35,10 +36,9 @@ I hope you find something useful around here! 😄
 
 ### IDE and Tools: 
 <div style="display": inline_block>
-  <img src="https://cdn.simpleicons.org/git/white" height="30" width="42" alt="java logo" />
-  <img src="https://cdn.simpleicons.org/VisualStudioCode" height="30" width="42" alt="java logo" />
-  <img src="https://cdn.simpleicons.org/PyCharm/white/" height="30" width="42" alt="java logo" />
-  <img src="https://cdn.simpleicons.org/googlecolab" height="30" width="42" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" width="42" alt="arduino logo">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" width="42" alt="arduino logo">
+  <img src="https://cdn.simpleicons.org/git/white" height="30" width="42" alt="github" />
+  <img src="https://img.favpng.com/13/12/11/visual-studio-code-microsoft-visual-studio-atom-source-code-editor-integrated-development-environment-png-favpng-16pwQPqjvWkV4GLfd2kJ4BH4q.jpg" height="30" width="42" alt="vscode" />
+  <img src="https://cdn.simpleicons.org/PyCharm/white/" height="30" width="42" alt="pycharm" />
+  <img src="https://cdn.simpleicons.org/googlecolab" height="30" width="42" alt="google colab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" width="42" alt="windows">
 </div>
