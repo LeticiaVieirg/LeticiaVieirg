@@ -38,7 +38,6 @@ I hope you find something useful around here! 😄
 <div style="display": inline_block>
   <img src="https://cdn.simpleicons.org/git/white" height="30" width="42" alt="github" />
   <img src="https://img.favpng.com/13/12/11/visual-studio-code-microsoft-visual-studio-atom-source-code-editor-integrated-development-environment-png-favpng-16pwQPqjvWkV4GLfd2kJ4BH4q.jpg" height="30" width="42" alt="vscode" />
-  <img src="https://cdn.simpleicons.org/PyCharm/white/" height="30" width="42" alt="pycharm" />
   <img src="https://cdn.simpleicons.org/googlecolab" height="30" width="42" alt="google colab" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" width="42" alt="windows">
 </div>
