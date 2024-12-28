@@ -5,7 +5,7 @@ I hope you find something useful around here! 😄
 
 - 💻  Information Technology Student / Cpmputer Engenning
 - 👩‍💻  Technological Development, Research and Extension - UFERSA
-- 🏢  Currently researching at [CILAB](https://github.com/cilab-ufersa) and working for [AltoTech](https://github.com/https-github-com-AltoTechJr)
+- 🏢  Currently researching at [CILab](https://github.com/cilab-ufersa) and working for [AltoTech](https://github.com/https-github-com-AltoTechJr)
 - 🌎  Based in Brazil 
 - 👩‍💻  More about me: Interested in automation, champion in robotics competitions and love cats
   
