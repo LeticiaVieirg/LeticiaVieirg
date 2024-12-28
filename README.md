@@ -3,11 +3,11 @@
 I'm Leticia Vieira and this is my GitHub profile. I do my best to share what I'm learning and to keep well-documented repos.   
 I hope you find something useful around here! 😄
 
-- 💻  Information Technology Student
+- 💻  Information Technology Student / Cpmputer Engenning
 - 👩‍💻  Technological Development, Research and Extension - UFERSA
-- 🏢  Currently working for [AltoTech](https://github.com/https-github-com-AltoTechJr)
-- 🌎  Based in Brazil
-- 👩‍💻  More about me: - **Back-end developer** and **Marketing** at [AltoTech](https://github.com/https-github-com-AltoTechJr)
+- 🏢  Currently researching at [CILAB](https://github.com/cilab-ufersa) and working for [AltoTech](https://github.com/https-github-com-AltoTechJr)
+- 🌎  Based in Brazil 
+- 👩‍💻  More about me: Interested in automation, champion in robotics competitions and love cats
   
 ### **How to reach me**:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/let%C3%ADcia-vieira-059a9b206//)
