@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hi+there%2C+I+am+Leticia+Vieira+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Hi+there%2C+I'm+Leticia+Vieira+👋)](https://git.io/typing-svg)
 
 I'm Leticia Vieira and this is my GitHub profile. I do my best to share what I'm learning and to keep well-documented repos.   
 I hope you find something useful around here! 😄
