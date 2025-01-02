@@ -3,7 +3,7 @@
 I'm Leticia Vieira and this is my GitHub profile. I do my best to share what I'm learning and to keep well-documented repos.   
 I hope you find something useful around here! 😄
 
-- 💻  Information Technology Student / Cpmputer Engenning
+- 💻  Information Technology Student / Computer Engenning
 - 👩‍💻  Technological Development, Research and Extension - UFERSA
 - 🏢  Currently researching at [CILab](https://github.com/cilab-ufersa) and working for [AltoTech](https://github.com/https-github-com-AltoTechJr)
 - 🌎  Based in Brazil 
