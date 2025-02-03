@@ -29,7 +29,7 @@ I hope you find something useful around here! 😄
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeticiaVieirg&theme=dark&count_private=false"/></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeticiaVieirg&hide=html&layout=compact&theme=dark&count_private=false" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeticiaVieirg&hide=html&exclude=Jupyter%20Notebook&layout=compact&theme=dark&count_private=false" /></td>
     </tr>   
 </table>
 </center> 
