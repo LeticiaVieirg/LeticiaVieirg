@@ -6,6 +6,7 @@ I hope you find something useful around here! 😄
 - 💻  Information Technology Student / Computer Engineering
 - 👩‍💻  Technological Development, Research and Extension - UFERSA
 - 🏢  Currently researching at [CILab](https://github.com/cilab-ufersa) and working for [AltoTech](https://github.com/https-github-com-AltoTechJr)
+- 🏢  Ambassador at DIO - BootCamp Bradesco Java - [Subscription](https://www.dio.me/bootcamp/bradesco-java-cloud-native?ref=9DA81675A1CB421CB671A627AC683FC4)
 - 🌎  Based in Brazil 
 - 👩‍💻  More about me: Interested in automation, champion in robotics competitions and love cats
   
