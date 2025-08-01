@@ -6,8 +6,7 @@ I hope you find something useful around here! 😄
 - 💻  Information Technology Student / Computer Engineering
 - 👩‍💻  Technological Development, Research and Extension - UFERSA
 - 🏢  Currently researching at [CILab](https://github.com/cilab-ufersa) and working for [AltoTech](https://github.com/https-github-com-AltoTechJr)
-- 🏢  Ambassador at [DIO](https://www.dio.me/)
-- 🌎  Based in Brazil 
+- 🌎  Ambassador at [DIO](https://www.dio.me/)
 - 👩‍💻  More about me: Interested in automation, champion in robotics competitions and love cats
   
 ### **How to reach me**:
@@ -19,11 +18,10 @@ I hope you find something useful around here! 😄
 ### **Languages:**
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" width="54" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" width="54" alt="arduino logo"  />
   <img src="https://cdn.simpleicons.org/c" height="42" width="54" alt="c logo" />
-  <img src="https://cdn.simpleicons.org/javascript" height="42" width="54" alt="java logo" />
   <img src="https://cdn.simpleicons.org/c++" height="42" width="54" alt="java logo" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" width="54" alt="java logo"  />
 </div>
 
 <center>
